@@ -1,14 +1,14 @@
 /*
- * 1o1 LEDs Driver
+ * ATS LEDs Driver
  * 
  * @Company
- *   1o1 Oscilloscope Team
+ *   ATS Team
  * 
  * @File Name
  *   leds.h
  * 
  * @Summary
- *   Interface to the debug LEDs on the 1o1 board.
+ *   Interface to the debug LEDs on the ATS board.
 */
 
 #ifndef LEDS_H

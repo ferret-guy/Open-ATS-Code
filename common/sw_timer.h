@@ -2,7 +2,7 @@
  * Software Timer Library
  * 
  * @Company
- *   1o1 Oscilloscope Team
+ *   ATS Team
  * 
  * @File Name
  *   sw_timer.h

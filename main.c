@@ -1,14 +1,14 @@
 /*
- * 1o1 Oscilloscope Firmware
+ * ATS Firmware
  * 
  * @Company
- *   1o1 Oscilloscope Team
+ *   ATS Team
  * 
  * @File Name
  *   main.c
  * 
  * @Summary
- *   Contains initialization and main task loop for 1o1 Oscilloscope.
+ *   Contains initialization and main task loop for ATS
 */
 
 #include <xc.h>

@@ -1,8 +1,8 @@
 /*
- * 1o1 LEDs Driver
+ * ATS LEDs Driver
  * 
  * @Company
- *   1o1 Oscilloscope Team
+ *   ATS Team
  * 
  * @File Name
  *   AC-Out.c

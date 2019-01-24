@@ -1,8 +1,8 @@
 /*
- * 1o1 Port Definitions
+ * ATS Port Definitions
  * 
  * @Company
- *   1o1 Oscilloscope Team
+ *   ATS Team
  * 
  * @File Name
  *   ports.h
