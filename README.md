@@ -1,3 +1,3 @@
-# One Inch Oscilloscope Firmware
+# Open ATS Firmware
 
-This repo holds the firmware for the One Inch Oscillscope
+This repo holds the firmware for the Open ATS
